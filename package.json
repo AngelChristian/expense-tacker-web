@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AngelChristian/expense-tacker-web/issues"
   },
-  "homepage": "https://github.com/AngelChristian/expense-tacker-web#readme"
+  "homepage": "https://github.com/AngelChristian/expense-tacker-web#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
